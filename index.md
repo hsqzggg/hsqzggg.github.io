@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Link跳转到具体文章页](https://github.com/hsqzggg/hsqzggg.github.io/edit/master/Welcome%20file.md)
+[Link跳转到具体文章页](https://hsqzggg.github.io/Welcome%20file)
 
 You can use the [editor on GitHub](https://github.com/hsqzggg/hsqzggg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
