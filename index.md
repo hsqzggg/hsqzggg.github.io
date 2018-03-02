@@ -37,5 +37,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<div id="gitmentContainer"></div> <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"> <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script> <script> var gitment = new Gitment({ owner: 'hsqzggg', repo: 'hsqzggg.github.io', oauth: { client_id: 'd6ff4b4165290cb3842c', client_secret: 'bb6eacff41fdd6e77b09af4173d935f2278b4250', }, }); gitment.render('gitmentContainer'); </script>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+
+<div id="gitalk-container"></div>   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script> <script> var gitalk  = new Gitalk({ clientID: 'd6ff4b4165290cb3842c', clientSecret: 'bb6eacff41fdd6e77b09af4173d935f2278b4250', repo: 'hsqzggg.github.io', owner: 'hsqzggg', admin: ['hsqzggg'],}); gitalk.render('gitalk-container'); </script>
 
