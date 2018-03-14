@@ -1,10 +1,9 @@
-# BY Blog
+# Allen Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+> 下面是Github博客的搭建教程，全篇原文直接引用自[柏荧(BY)](http://qiubaiying.github.io)，原创为 [Hux](https://github.com/Huxpro/huxpro.github.io) 。（原教程写的很好，加上自己主要精力不在这里，故借花献佛了）
 > 
 > 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
